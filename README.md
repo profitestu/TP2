@@ -1,5 +1,5 @@
 ### TP2
-# Présentation numérique portant sur l’analyse d’un profil multimédi
+# Présentation numérique portant sur l’analyse d’un profil multimédia
 ### Mon profil multimédia
 ### Mes forces
 ### Mes faiblesses
