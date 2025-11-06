@@ -1,5 +1,6 @@
 ### TP2
 # Présentation numérique portant sur l’analyse d’un profil multimédia
+### Pourquoi j’ai choisi le programme TIM
 ### Mon profil multimédia
 ### Mes forces
 ### Mes faiblesses
